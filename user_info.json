@@ -1,0 +1,13 @@
+{
+    "data": [
+        {
+            "user_id": "tri00",
+            "username": "trial",
+            "pin": "0000",
+            "balance": {
+                "KES": 140,
+                "USD": 0
+            }
+        }
+    ]
+}
