@@ -1,5 +1,5 @@
 """
-# hello worl
+# hello world
 lawrence M. Muema
 Atm_project
 """
